@@ -4,8 +4,7 @@
 
 [Solidity](https://solidity.readthedocs.io/en/develop/abi-spec.html)
 
-webbased solidity IDE
-[Remix](https://remix.ethereum.org/)
+[Remix](https://remix.ethereum.org/) - webbased IDE
 
 [web3js](https://web3js.readthedocs.io/en/1.0/)
 
