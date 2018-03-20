@@ -1,16 +1,18 @@
 # A place to share useful information
 
-## General
+## Documentation
 
 [Solidity](https://solidity.readthedocs.io/en/develop/abi-spec.html)
 
 [Truffle](http://truffleframework.com/)
 
-[Remix](https://remix.ethereum.org/) - webbased IDE
-
 [web3js](https://web3js.readthedocs.io/en/1.0/)
 
 [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
+
+## Utility
+
+[Remix](https://remix.ethereum.org/) - webbased IDE
 
 ## Tutorials
 
@@ -19,3 +21,7 @@
 [Calling a Smart Contract With a Button](https://medium.com/metamask/calling-a-smart-contract-with-a-button-d278b1e76705)
 
 [Pet-Shop Tutorial](http://truffleframework.com/tutorials/pet-shop)
+
+## Nice Reads
+
+[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print2)
